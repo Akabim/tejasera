@@ -7,9 +7,6 @@ module.exports = {
         'primary': '#603F26',
 
       },
-      backgroundImage: {
-        'hero': "url('./dist/img/gambar6.png')"
-      }
     },
   },
   plugins: [],
